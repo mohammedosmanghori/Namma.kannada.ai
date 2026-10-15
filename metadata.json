@@ -1,0 +1,6 @@
+{
+  "name": "NAMMA KANNADA AI",
+  "description": "An interactive structured learning platform for English and Hindi speakers to master practical Kannada through conversations, vocabulary, and progressive recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
